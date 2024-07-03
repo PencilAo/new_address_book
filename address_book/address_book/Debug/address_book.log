@@ -1,0 +1,23 @@
+﻿  address_book.c
+E:\code\test\address_book\address_book\address_book.c(139,37): warning C4028: 形参 1 与声明不同
+E:\code\test\address_book\address_book\address_book.c(153,39): warning C4028: 形参 1 与声明不同
+E:\code\test\address_book\address_book\address_book.c(213,33): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\code\test\address_book\address_book\address_book.c(213,33): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+E:\code\test\address_book\address_book\address_book.c(213,57): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\code\test\address_book\address_book\address_book.c(213,57): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+E:\code\test\address_book\address_book\address_book.c(216,1): warning C4029: 声明的形参表不同于定义
+E:\code\test\address_book\address_book\address_book.c(223,61): warning C4090: “函数”: 不同的“const”限定符
+E:\code\test\address_book\address_book\address_book.c(223,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+E:\code\test\address_book\address_book\address_book.c(228,60): warning C4090: “函数”: 不同的“const”限定符
+E:\code\test\address_book\address_book\address_book.c(228,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  test.c
+E:\code\test\address_book\address_book\test.c(5,2): error C2365: “exit”: 重定义；以前的定义是“函数”
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(56,48):
+  参见“exit”的声明
+  
+E:\code\test\address_book\address_book\test.c(5,2): error C2086: “Option exit”: 重定义
+  E:\code\test\address_book\address_book\test.c(5,2):
+  参见“exit”的声明
+  
+E:\code\test\address_book\address_book\test.c(53,3): error C2051: case 表达式不是常量
+  正在生成代码...

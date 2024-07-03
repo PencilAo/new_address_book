@@ -1,0 +1,14 @@
+﻿  address_book.c
+E:\code\test\address_book\address_book\address_book.c(20,11): warning C4098: “Load_Address_book”:“void”函数返回值
+E:\code\test\address_book\address_book\address_book.c(172,37): warning C4028: 形参 1 与声明不同
+E:\code\test\address_book\address_book\address_book.c(186,39): warning C4028: 形参 1 与声明不同
+E:\code\test\address_book\address_book\address_book.c(246,33): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\code\test\address_book\address_book\address_book.c(246,33): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+E:\code\test\address_book\address_book\address_book.c(246,57): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\code\test\address_book\address_book\address_book.c(246,57): warning C4024: “strcmp”: 形参和实参 2 的类型不同
+E:\code\test\address_book\address_book\address_book.c(249,1): warning C4029: 声明的形参表不同于定义
+E:\code\test\address_book\address_book\address_book.c(256,61): warning C4090: “函数”: 不同的“const”限定符
+E:\code\test\address_book\address_book\address_book.c(256,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+E:\code\test\address_book\address_book\address_book.c(261,60): warning C4090: “函数”: 不同的“const”限定符
+E:\code\test\address_book\address_book\address_book.c(261,50): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  address_book.vcxproj -> E:\code\test\address_book\x64\Debug\address_book.exe
